@@ -34,10 +34,8 @@
 | ❓ Business Problem | [Problem](#-business-problem) |
 | 🎯 Objectives | [Objectives](#-objectives) |
 | 📊 Dataset | [Dataset](#-dataset-information) |
-| 🖥️ Dashboard Preview | [Dashboard](#-dashboard-preview) |
 | 💡 Key Insights | [Insights](#-key-insights) |
 | 🛠️ Tools Used | [Tools](#-tools-used) |
-| 📁 Folder Structure | [Structure](#-folder-structure) |
 | 🚀 How to Use | [Usage](#-how-to-use) |
 | 📈 Results & Impact | [Results](#-results--impact) |
 | 🔮 Future Improvements | [Future](#-future-improvements) |
@@ -122,28 +120,7 @@ This project addresses all of the above with a structured, data-driven analytica
 
 ---
 
-## 🖥️ Dashboard Preview
 
-> **5-page interactive Power BI dashboard built with financial calendar time intelligence**
-
-### Page 1 — Executive Summary
-![Executive Summary](dashboard/dashboard1.png)
-
-### Page 2 — Time Trends
-![Time Trends](dashboard/dashboard2.png)
-
-### Page 3 — Site Performance
-![Site Performance](dashboard/dashboard3.png)
-
-### Page 4 — Menu Analysis
-![Menu Analysis](dashboard/dashboard4.png)
-
-### Page 5 — Key Insights & Recommendations
-![Key Insights](dashboard/dashboard5.png)
-
-> 💡 **Tip:** Replace the image placeholders above with actual screenshots from your Power BI dashboard. Place them in the `dashboard/` folder.
-
----
 
 ## 💡 Key Insights
 
@@ -192,7 +169,6 @@ Kokoro         →   5.90%  ✅  Controlled
 |---|---|---|
 | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | Dashboard, DAX, Data Modelling | Desktop Latest |
 | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) | Data source, initial exploration | Microsoft 365 |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | Data querying and validation | Standard SQL |
 | ![Power Query](https://img.shields.io/badge/Power%20Query-006D6D?style=flat-square&logo=microsoft&logoColor=white) | ETL, data cleaning, append | M Language |
 | ![DAX](https://img.shields.io/badge/DAX-E8644A?style=flat-square&logo=powerbi&logoColor=white) | Measures, KPIs, time intelligence | Power BI DAX |
 
@@ -211,35 +187,6 @@ YoY Growth %      = DIVIDE([Net Sales 2025] - [Net Sales 2024], [Net Sales 2024]
 Net Sales Change  = [Net Sales 2025] - [Net Sales 2024]
 ```
 
----
-
-## 📁 Folder Structure
-
-```
-restaurant-sales-insights/
-│
-├── 📂 data/
-│   ├── restaurant_dataset.xlsx        # Raw source data (5 sheets)
-│   └── data_dictionary.md             # Column definitions and notes
-│
-├── 📂 dashboard/
-│   ├── dashboard1.png                 # Executive Summary screenshot
-│   ├── dashboard2.png                 # Time Trends screenshot
-│   ├── dashboard3.png                 # Site Performance screenshot
-│   ├── dashboard4.png                 # Menu Analysis screenshot
-│   └── dashboard5.png                 # Key Insights screenshot
-│
-├── 📂 powerbi/
-│   └── RestaurantSalesInsights.pbix   # Power BI report file
-│
-├── 📂 sql_queries/
-│   └── data_validation.sql            # SQL used for data profiling
-│
-├── 📂 presentation/
-│   └── DolphinInsights_Analysis.pptx  # Executive summary slides
-│
-└── 📄 README.md
-```
 
 ---
 
