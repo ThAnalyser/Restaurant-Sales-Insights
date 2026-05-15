@@ -1,0 +1,1042 @@
+group,family,name,num
+92.modifier-food,modifiers,Extra Chilli Oil,6833012093001
+92.modifier-food,modifiers,Extra Sesame Seeds,6833317703001
+92.modifier-food,modifiers,Extra Spring Onion,6833317706001
+92.modifier-food,modifiers,Extra Pickled Ginger,6833317736001
+92.modifier-food,modifiers,Extra Yuzu Mayo,6836004803001
+92.modifier-food,modifiers,Extra Garlic Crisps,6836004821001
+92.modifier-food,modifiers,Extra Lime Wedge,6836004911001
+92.modifier-food,modifiers,Extra Coriander,6836004938001
+92.modifier-food,modifiers,Extra Sweet Soy,6836005028001
+92.modifier-food,modifiers,Extra Miso Drizzle,6836005046001
+92.modifier-food,modifiers,Extra Crispy Shallots,6839000054001
+92.modifier-food,modifiers,Extra Peanut Crumb,6839000057001
+92.modifier-food,modifiers,Extra Cashew Dust,6839000069001
+92.modifier-food,modifiers,Extra Shichimi Spice,6839000456001
+92.modifier-food,modifiers,Extra Kimchi,6839000459001
+92.modifier-food,modifiers,Extra Steamed Greens,6839000462001
+92.modifier-food,modifiers,Extra Edamame,6839000465001
+92.modifier-food,modifiers,Extra Tenderstem Greens,6839000468001
+92.modifier-food,modifiers,Extra Toasted Coconut,6839000471001
+92.modifier-food,modifiers,Extra Cucumber Ribbons,6839000474001
+92.modifier-food,modifiers,Extra House Slaw,6839000477001
+92.modifier-food,modifiers,Extra Bean Sprouts,6839000480001
+92.modifier-food,modifiers,Extra Mushroom Mix,6839000483001
+92.modifier-food,modifiers,Extra Tofu Cubes,6839000486001
+92.modifier-food,modifiers,Extra Aubergine,6839000489001
+92.modifier-food,modifiers,Extra Cauliflower,6839000492001
+92.modifier-food,modifiers,Extra Sweetcorn,6839000507001
+92.modifier-food,modifiers,Extra Crispy Onion,68312000009001
+92.modifier-food,modifiers,Extra Chilli Jam,68312000012001
+92.modifier-food,modifiers,Extra Miso Butter,68312000015001
+92.modifier-food,modifiers,Extra Udon Noodles,68312000018001
+92.modifier-food,modifiers,Extra Rice Noodles,68312000021001
+92.modifier-food,modifiers,Extra Brown Rice,68312000027001
+92.modifier-food,modifiers,Extra Jasmine Rice,68312000030001
+92.modifier-food,modifiers,Extra Sticky Rice,68312000036001
+92.modifier-food,modifiers,Extra Curry Sauce,68312000318001
+92.modifier-food,modifiers,Extra Coconut Broth,68312000321001
+92.modifier-food,modifiers,Extra Sesame Dressing,68312000324001
+92.modifier-food,modifiers,Extra Ginger Dressing,68312000603001
+92.modifier-food,modifiers,Extra Pickled Cucumber,68312000615001
+92.modifier-food,modifiers,Extra Shiso Leaves,68312000618001
+92.modifier-food,modifiers,Extra Lemon Salt,68312000621001
+92.modifier-food,modifiers,Extra Black Garlic,68312000624001
+92.modifier-food,modifiers,Extra Herb Crunch,68312000918001
+92.modifier-food,modifiers,Extra Toasted Seeds,68312000921001
+92.modifier-food,modifiers,Extra Crushed Peanuts,68312000924001
+92.modifier-food,modifiers,Extra Crispy Tofu,68312000927001
+92.modifier-food,modifiers,Extra Chicken,68312000930001
+92.modifier-food,modifiers,Extra Prawns,68312000936001
+92.modifier-food,modifiers,Extra Beef,68312000939001
+92.modifier-food,modifiers,Extra Mushrooms,68312000951001
+92.modifier-food,modifiers,Extra Tofu,68312000960001
+92.modifier-food,modifiers,Extra Spinach,68312000975001
+92.modifier-food,modifiers,Extra Broth,68312000978001
+92.modifier-food,modifiers,Extra Rice,68312001212001
+92.modifier-food,modifiers,Extra Noodles,68312001227001
+92.modifier-food,modifiers,Extra Slaw,68312001230001
+92.modifier-food,modifiers,Extra Sauce,68312001503001
+92.modifier-food,modifiers,Extra Greens,68312001506001
+92.modifier-food,modifiers,Extra Sesame Slaw,68312001512001
+92.modifier-food,modifiers,No Chilli Oil,68312001515001
+92.modifier-food,modifiers,No Sesame Seeds,68312001521001
+92.modifier-food,modifiers,No Spring Onion,68312001812001
+92.modifier-food,modifiers,No Pickled Ginger,68312002103001
+92.modifier-food,modifiers,No Yuzu Mayo,68312002106001
+92.modifier-food,modifiers,No Garlic Crisps,68312002109001
+92.modifier-food,modifiers,No Lime Wedge,68312002112001
+92.modifier-food,modifiers,No Coriander,68312002115001
+92.modifier-food,modifiers,No Sweet Soy,68312002703001
+92.modifier-food,modifiers,No Miso Drizzle,68312003309001
+92.modifier-food,modifiers,No Crispy Shallots,68312003315001
+92.modifier-food,modifiers,No Peanut Crumb,68312003318001
+92.modifier-food,modifiers,No Cashew Dust,68312003609001
+92.modifier-food,modifiers,No Shichimi Spice,68312003621001
+92.modifier-food,modifiers,No Kimchi,68312003624001
+92.modifier-food,modifiers,No Steamed Greens,68312003906001
+92.modifier-food,modifiers,No Edamame,68312003909001
+92.modifier-food,modifiers,No Tenderstem Greens,68312003915001
+92.modifier-food,modifiers,No Toasted Coconut,68312003927001
+92.modifier-food,modifiers,No Cucumber Ribbons,68312003939001
+92.modifier-food,modifiers,No House Slaw,68312003945001
+92.modifier-food,modifiers,No Bean Sprouts,68312004215001
+92.modifier-food,modifiers,No Mushroom Mix,68312004506001
+92.modifier-food,modifiers,No Tofu Cubes,68312004509001
+92.modifier-food,modifiers,No Aubergine,68312004821001
+92.modifier-food,modifiers,No Cauliflower,68312004824001
+92.modifier-food,modifiers,No Sweetcorn,68312004830001
+92.modifier-food,modifiers,No Crispy Onion,68312004833001
+92.modifier-food,modifiers,No Chilli Jam,68312004836001
+92.modifier-food,modifiers,No Miso Butter,68312004842001
+92.modifier-food,modifiers,No Udon Noodles,68312004845001
+92.modifier-food,modifiers,No Rice Noodles,68312004848001
+92.modifier-food,modifiers,No Brown Rice,68312004851001
+92.modifier-food,modifiers,No Jasmine Rice,68312004857001
+92.modifier-food,modifiers,No Sticky Rice,68312004860001
+92.modifier-food,modifiers,No Curry Sauce,68312004863001
+92.modifier-food,modifiers,No Coconut Broth,68312005418001
+92.modifier-food,modifiers,No Sesame Dressing,68312005421001
+92.modifier-food,modifiers,No Ginger Dressing,68312005424001
+92.modifier-food,modifiers,No Pickled Cucumber,68312005427001
+92.modifier-food,modifiers,No Shiso Leaves,68312005430001
+92.modifier-food,modifiers,No Lemon Salt,68312005433001
+92.modifier-food,modifiers,No Black Garlic,68312005436001
+92.modifier-food,modifiers,No Herb Crunch,68312005439001
+92.modifier-food,modifiers,No Toasted Seeds,68312005442001
+92.modifier-food,modifiers,No Crushed Peanuts,68312005445001
+92.modifier-food,modifiers,No Crispy Tofu,68312005451001
+92.modifier-food,modifiers,No Chicken,68312005454001
+92.modifier-food,modifiers,No Prawns,68312005457001
+92.modifier-food,modifiers,No Beef,68312005460001
+92.modifier-food,modifiers,No Mushrooms,68312005463001
+92.modifier-food,modifiers,No Tofu,68312005703001
+92.modifier-food,modifiers,No Spinach,68312005706001
+92.modifier-food,modifiers,No Broth,68312005712001
+92.modifier-food,modifiers,No Rice,68312005715001
+92.modifier-food,modifiers,No Noodles,68312005724001
+92.modifier-food,modifiers,No Slaw,68312005727001
+92.modifier-food,modifiers,No Sauce,68312005730001
+92.modifier-food,modifiers,No Greens,68312005733001
+92.modifier-food,modifiers,No Sesame Slaw,68312005736001
+92.modifier-food,modifiers,Light Chilli Oil,68312005739001
+92.modifier-food,modifiers,Light Sesame Seeds,68312005742001
+92.modifier-food,modifiers,Light Spring Onion,68312005745001
+92.modifier-food,modifiers,Light Pickled Ginger,68312005748001
+92.modifier-food,modifiers,Light Yuzu Mayo,68312005751001
+92.modifier-food,modifiers,Light Garlic Crisps,68312005754001
+92.modifier-food,modifiers,Light Lime Wedge,68312005757001
+92.modifier-food,modifiers,Light Coriander,68312005766001
+92.modifier-food,modifiers,Light Sweet Soy,68312005769001
+92.modifier-food,modifiers,Light Miso Drizzle,68312005772001
+92.modifier-food,modifiers,Light Crispy Shallots,68312005775001
+92.modifier-food,modifiers,Light Peanut Crumb,68312005781001
+92.modifier-food,modifiers,Light Cashew Dust,68312005790001
+92.modifier-food,modifiers,Light Shichimi Spice,68312005793001
+92.modifier-food,modifiers,Light Kimchi,68312005796001
+92.modifier-food,modifiers,Light Steamed Greens,68312006003001
+92.modifier-food,modifiers,Light Edamame,68312006015001
+92.modifier-food,modifiers,Light Tenderstem Greens,68312006018001
+92.modifier-food,modifiers,Light Toasted Coconut,68312006021001
+92.modifier-food,modifiers,Light Cucumber Ribbons,68312006024001
+92.modifier-food,modifiers,Light House Slaw,68312006303001
+92.modifier-food,modifiers,Light Bean Sprouts,68312006306001
+92.modifier-food,modifiers,Light Mushroom Mix,68312006315001
+92.modifier-food,modifiers,Light Tofu Cubes,68312006318001
+92.modifier-food,modifiers,Light Aubergine,68312006615001
+92.modifier-food,modifiers,Light Cauliflower,68312006621001
+92.modifier-food,modifiers,Light Sweetcorn,68312006924001
+92.modifier-food,modifiers,Light Crispy Onion,68312006933001
+92.modifier-food,modifiers,Light Chilli Jam,68312006939001
+92.modifier-food,modifiers,Light Miso Butter,68312006945001
+92.modifier-food,modifiers,Light Udon Noodles,68312006954001
+92.modifier-food,modifiers,Light Rice Noodles,68312009006001
+92.modifier-food,modifiers,Light Brown Rice,68312009015001
+92.modifier-food,modifiers,Light Jasmine Rice,68312009066001
+92.modifier-food,modifiers,Light Sticky Rice,68312009081001
+92.modifier-food,modifiers,Light Curry Sauce,68312009105001
+92.modifier-food,modifiers,Light Coconut Broth,68312009108001
+92.modifier-food,modifiers,Light Sesame Dressing,68312009111001
+92.modifier-food,modifiers,Light Ginger Dressing,68312009132001
+92.modifier-food,modifiers,Light Pickled Cucumber,68312009135001
+92.modifier-food,modifiers,Side of Chilli Oil,68312009165001
+92.modifier-food,modifiers,Side of Yuzu Mayo,68312009174001
+92.modifier-food,modifiers,Side of Sweet Soy,68312009177001
+92.modifier-food,modifiers,Side of Sesame Dressing,68312009234001
+92.modifier-food,modifiers,Side of Ginger Dressing,68312009237001
+92.modifier-food,modifiers,Side of House Slaw,68312009240001
+92.modifier-food,modifiers,Side of Curry Sauce,68312012111001
+92.modifier-food,modifiers,Side of Miso Drizzle,68312012171001
+92.modifier-food,modifiers,Side of Pickled Ginger,68312012174001
+92.modifier-food,modifiers,Side of Lime Wedge,68312012234001
+92.modifier-food,modifiers,Side of Kimchi,68312012237001
+92.modifier-food,modifiers,Side of Steamed Greens,68312012246001
+92.modifier-food,modifiers,Side of Edamame,68312015030001
+92.modifier-food,modifiers,Side of Cucumber Ribbons,68312015066001
+92.modifier-food,modifiers,Side of Toasted Seeds,68312015069001
+92.modifier-food,modifiers,Side of Crushed Peanuts,68312015072001
+92.modifier-food,modifiers,Side of Herb Crunch,68312015075001
+92.modifier-food,modifiers,Side of Chilli Jam,68312015135001
+92.modifier-food,modifiers,Side of Garlic Crisps,68312015204001
+92.modifier-food,modifiers,Side of Crispy Shallots,68312015213001
+92.modifier-food,modifiers,Side of Mushroom Mix,68312015216001
+92.modifier-food,modifiers,Side of Tofu Cubes,68312015219001
+92.modifier-food,modifiers,Side of Aubergine,68312015276001
+92.modifier-food,modifiers,Side of Cauliflower,68312015279001
+92.modifier-food,modifiers,Side of Sweetcorn,68312018036001
+92.modifier-food,modifiers,Side of Coconut Broth,68312018045001
+92.modifier-food,modifiers,Side of Broth Top Up,68312300603001
+92.modifier-food,modifiers,Side of Rice Top Up,68312300606001
+92.modifier-food,modifiers,Side of Noodle Top Up,68312300609001
+92.modifier-food,modifiers,Side of Sticky Rice,68312300612001
+92.modifier-food,modifiers,Side of Brown Rice,68312300615001
+92.modifier-food,modifiers,Side of Jasmine Rice,68312300618001
+92.modifier-food,modifiers,Side of Bean Sprouts,68312300621001
+92.modifier-food,modifiers,Side of Shiso Leaves,68312300624001
+92.modifier-food,modifiers,Side of Lemon Salt,68312300627001
+92.modifier-food,modifiers,Side of Black Garlic,68312300630001
+92.modifier-food,modifiers,Side of Sesame Slaw,68312300633001
+92.modifier-food,modifiers,Side of Pickled Cucumber,68312300636001
+92.modifier-food,modifiers,Side of Tenderstem Greens,68312301053001
+92.modifier-food,modifiers,Side of Coriander,68312301056001
+92.modifier-food,modifiers,Swap to Brown Rice,68312301203001
+92.modifier-food,modifiers,Swap to Jasmine Rice,68312301206001
+92.modifier-food,modifiers,Swap to Sticky Rice,68312301209001
+92.modifier-food,modifiers,Swap to Rice Noodles,68312301212001
+92.modifier-food,modifiers,Swap to Udon Noodles,68312301215001
+92.modifier-food,modifiers,Swap to Mixed Greens,68312301218001
+92.modifier-food,modifiers,Swap to House Slaw,68312301221001
+92.modifier-food,modifiers,Swap to Steamed Greens,68312301224001
+92.modifier-food,modifiers,Swap to Kimchi Rice,68312301230001
+92.modifier-food,modifiers,Swap to Coconut Rice,68312301233001
+92.modifier-food,modifiers,Swap to Cauli Rice,68312301236001
+92.modifier-food,modifiers,Swap to Extra Broth,68312301239001
+92.modifier-food,modifiers,Swap to Light Sauce,68312301242001
+92.modifier-food,modifiers,Swap to Mild Sauce,68312301248001
+92.modifier-food,modifiers,Swap to Hot Sauce,68312301251001
+92.modifier-food,modifiers,Swap to Gluten-Free Noodles,68312301254001
+92.modifier-food,modifiers,Swap to Veg Broth,68312301257001
+92.modifier-food,modifiers,Swap to Chicken,68312301260001
+92.modifier-food,modifiers,Swap to Tofu,68312301266001
+92.modifier-food,modifiers,Swap to Mushrooms,68312301269001
+92.modifier-food,modifiers,Swap to Prawns,68312301272001
+92.modifier-food,modifiers,Swap to Beef,68312301275001
+92.modifier-food,modifiers,Swap to Edamame,68312301278001
+92.modifier-food,modifiers,Swap to Sweetcorn,68312301305001
+92.modifier-food,modifiers,Swap to Tenderstem Greens,68312301338001
+92.modifier-food,modifiers,Swap to Cucumber Ribbons,68312301503001
+92.modifier-food,modifiers,Swap to Pickled Cucumber,68312301506001
+92.modifier-food,modifiers,Swap to Sesame Slaw,68312301512001
+92.modifier-food,modifiers,Swap to Coriander Rice,68312301515001
+92.modifier-food,modifiers,Swap to Garlic Rice,68312301521001
+92.modifier-food,modifiers,Swap to Lemon Greens,68312301524001
+92.modifier-food,modifiers,Swap to Chilli Greens,68312301530001
+92.modifier-food,modifiers,Swap to Stir-Fried Greens,68312301536001
+92.modifier-food,modifiers,Swap to Roasted Aubergine,68312301539001
+92.modifier-food,modifiers,Swap to Charred Cauliflower,68312301542001
+92.modifier-food,modifiers,Swap to Crispy Tofu,68312301545001
+92.modifier-food,modifiers,Swap to Broccoli,68312301548001
+92.modifier-food,modifiers,Swap to Bean Sprouts,68312301551001
+92.modifier-food,modifiers,Swap to No Onion Base,68312301560001
+92.modifier-food,modifiers,Swap to No Garlic Base,68312301563001
+92.modifier-food,modifiers,Add House Pickles,68312301566001
+92.modifier-food,modifiers,Add Sesame Crunch,68312301569001
+92.modifier-food,modifiers,Add Chilli Crisp,68312301572001
+92.modifier-food,modifiers,Add Yuzu Splash,68312301575001
+92.modifier-food,modifiers,Add Lemon Drizzle,68312301581001
+92.modifier-food,modifiers,Add Fresh Herbs,68312301590001
+92.modifier-food,modifiers,Add Spring Onion,68312301599001
+92.modifier-food,modifiers,Add Coriander,68312301608001
+92.modifier-food,modifiers,Add Garlic Soy,68312301617001
+92.modifier-food,modifiers,Add Miso Glaze,68312301620001
+92.modifier-food,modifiers,Add Toasted Coconut,68312301623001
+92.modifier-food,modifiers,Add Peanut Crunch,68312301644001
+92.modifier-food,modifiers,Add Cashew Crunch,68312301650001
+92.modifier-food,modifiers,Add Crispy Onion,68312301653001
+92.modifier-food,modifiers,Add Crispy Shallots,68312301656001
+92.modifier-food,modifiers,Add Edamame,68312301659001
+92.modifier-food,modifiers,Add Kimchi,68312301662001
+92.modifier-food,modifiers,Add Mushrooms,68312301665001
+92.modifier-food,modifiers,Add Tofu Cubes,68312301668001
+92.modifier-food,modifiers,Add Aubergine,68312303009001
+92.modifier-food,modifiers,Add Cauliflower,68312303021001
+92.modifier-food,modifiers,Add Bean Sprouts,68312303027001
+92.modifier-food,modifiers,Add Sweetcorn,68312303045001
+92.modifier-food,modifiers,Add Spinach,68312303051001
+92.modifier-food,modifiers,Add Extra Greens,68312303057001
+92.modifier-food,modifiers,Add Noodle Portion,68312303063001
+92.modifier-food,modifiers,Add Rice Portion,68312303066001
+92.modifier-food,modifiers,Add Broth Portion,68312303087001
+92.modifier-food,modifiers,Add Sauce Portion,68312305214001
+92.modifier-food,modifiers,Add Slaw Portion,68313500036001
+92.modifier-food,modifiers,Add Pickled Slaw,68313500600001
+92.modifier-food,modifiers,Add Shiso Leaves,68313500603001
+92.modifier-food,modifiers,Add Lime Wedge,68313500606001
+92.modifier-food,modifiers,Add Lemon Salt,68313500609001
+92.modifier-food,modifiers,Add Black Garlic,68314100306001
+92.modifier-food,modifiers,Add Sesame Seeds,68314100642001
+92.modifier-food,modifiers,Add Toasted Seeds,68314100648001
+92.modifier-food,modifiers,Add Chilli Oil,68314100651001
+92.modifier-food,modifiers,Add Ginger Dressing,68314100654001
+92.modifier-food,modifiers,Add Sesame Dressing,68314100657001
+92.modifier-food,modifiers,Add Yuzu Mayo,68314100660001
+92.modifier-food,modifiers,Add Miso Butter,68314100666001
+83.alcohol-wine,beverage,Silver Vale Sauvignon Blanc,6833305277001
+83.alcohol-wine,beverage,Ivory Hill Chardonnay,6836009753001
+83.alcohol-wine,beverage,Willow Brook Albariño,6836009768001
+83.alcohol-wine,beverage,Stone Garden Pinot Noir,6836009804001
+83.alcohol-wine,beverage,Copper Field Shiraz,6836009810001
+83.alcohol-wine,beverage,North Star Tempranillo,6836009813001
+83.alcohol-wine,beverage,Red Lantern Blush Rosé,6836009993001
+83.alcohol-wine,beverage,Amber Coast Chardonnay,6836009999001
+83.alcohol-wine,beverage,Golden Orchard Viognier,6836012351001
+83.alcohol-wine,beverage,Moonlit Ridge Pinot Noir,6836012366001
+83.alcohol-wine,beverage,Blue Heron Cabernet,6836012381001
+83.alcohol-wine,beverage,Quiet River Tempranillo,6836012384001
+83.alcohol-wine,beverage,Silver Vale Blush Rosé,6836012387001
+83.alcohol-wine,beverage,Ivory Hill Pinot Grigio,6836012390001
+83.alcohol-wine,beverage,Willow Brook Viognier,6836012393001
+83.alcohol-wine,beverage,Stone Garden Rosé,6836012411001
+83.alcohol-wine,beverage,Copper Field Cabernet,6836012471001
+83.alcohol-wine,beverage,North Star Malbec,6836012474001
+83.alcohol-wine,beverage,Red Lantern Sparkling Brut,6836012477001
+83.alcohol-wine,beverage,Amber Coast Pinot Grigio,6836012480001
+83.alcohol-wine,beverage,Golden Orchard Riesling,6836012483001
+83.alcohol-wine,beverage,Moonlit Ridge Rosé,6836012486001
+83.alcohol-wine,beverage,Blue Heron Merlot,6836012501001
+83.alcohol-wine,beverage,Quiet River Malbec,6836012516001
+83.alcohol-wine,beverage,Silver Vale Sparkling Brut,6836012531001
+83.alcohol-wine,beverage,Ivory Hill Sauvignon Blanc,6836690012001
+83.alcohol-wine,beverage,Willow Brook Riesling,6836690015001
+83.alcohol-wine,beverage,Stone Garden Albariño,6836930177001
+83.alcohol-wine,beverage,Copper Field Merlot,6836930180001
+83.alcohol-wine,beverage,North Star Shiraz,6836930183001
+83.alcohol-wine,beverage,Red Lantern Grenache,6836930186001
+83.alcohol-wine,beverage,Amber Coast Sauvignon Blanc,6836930189001
+81.non alcohol-soft drin,beverage,Cloud Lime Soda,6833272271001
+81.non alcohol-soft drin,beverage,Yuzu Citrus Fizz,6833272274001
+81.non alcohol-soft drin,beverage,Apple Mint Sparkler,6833272277001
+81.non alcohol-soft drin,beverage,Cucumber Breeze Soda,6836006057001
+81.non alcohol-soft drin,beverage,Lychee Pop Fizz,6836013803001
+81.non alcohol-soft drin,beverage,Blood Orange Sparkler,6836013986001
+81.non alcohol-soft drin,beverage,Cherry Fizz Soda,6836015012001
+81.non alcohol-soft drin,beverage,Ginger Blossom Fizz,6836015030001
+81.non alcohol-soft drin,beverage,Peach Leaf Sparkler,6836015195001
+81.non alcohol-soft drin,beverage,Berry Drift Soda,6836015198001
+81.non alcohol-soft drin,beverage,Mango Zing Fizz,6836015201001
+81.non alcohol-soft drin,beverage,Lemon Grove Sparkler,6836015207001
+81.non alcohol-soft drin,beverage,Pineapple Twist Soda,6836015312001
+81.non alcohol-soft drin,beverage,Cloud Lime Fizz,6836636219001
+81.non alcohol-soft drin,beverage,Yuzu Citrus Sparkler,6836636222001
+81.non alcohol-soft drin,beverage,Pear Spark Soda,6836636225001
+81.non alcohol-soft drin,beverage,Cucumber Breeze Fizz,6836636228001
+81.non alcohol-soft drin,beverage,Lychee Pop Sparkler,6836636231001
+81.non alcohol-soft drin,beverage,Passionfruit Wave Soda,6837203222001
+81.non alcohol-soft drin,beverage,Cherry Fizz Fizz,6837203225001
+86.alcohol-spirits,beverage,Silver Kite Gin,6833272478001
+86.alcohol-spirits,beverage,Cedar Ember Rum,6833272481001
+86.alcohol-spirits,beverage,Blue Crane Tequila,6833272484001
+86.alcohol-spirits,beverage,Quiet Cask Vodka,6833272487001
+86.alcohol-spirits,beverage,Golden Reef Whisky,6833272529001
+86.alcohol-spirits,beverage,Harbour Oak Gin,6833272538001
+86.alcohol-spirits,beverage,Jade River Rum,6833272541001
+86.alcohol-spirits,beverage,Silver Kite Tequila,6833272688001
+86.alcohol-spirits,beverage,Blue Crane Vodka,6833272691001
+82.alcohol-beer,beverage,Harbour Draft Lager,6833398754001
+85.alcohol-other,beverage,Plum Orchard Spritz,6836005085001
+85.alcohol-other,beverage,Citrus Garden Spritz,6836005088001
+85.alcohol-other,beverage,Berry Blossom Spritz,6836005094001
+85.alcohol-other,beverage,Golden Apple Cider,6836005097001
+82.alcohol-beer,beverage,Stone Wharf Pilsner,6836006015001
+82.alcohol-beer,beverage,Maple Tap Lager,6836006111001
+82.alcohol-beer,beverage,Grain House Pilsner,6836006114001
+85.alcohol-other,beverage,Cloud Pear Cider,6836312330001
+86.alcohol-spirits,beverage,North Mist Whisky,6836312339001
+86.alcohol-spirits,beverage,Golden Reef Gin,6836312342001
+86.alcohol-spirits,beverage,Night Lantern Rum,6836312702001
+84.alcohol-sake and plum,beverage,Moon Rice Sake,6836660066001
+82.alcohol-beer,beverage,Stone Wharf Lager,6837200123001
+86.alcohol-spirits,beverage,Harbour Oak Tequila,6837203231001
+86.alcohol-spirits,beverage,Silver Kite Vodka,6837203246001
+86.alcohol-spirits,beverage,Cedar Ember Whisky,6837203255001
+86.alcohol-spirits,beverage,North Mist Gin,6837203258001
+86.alcohol-spirits,beverage,Quiet Cask Rum,6837203261001
+86.alcohol-spirits,beverage,Golden Reef Tequila,6837203264001
+86.alcohol-spirits,beverage,Harbour Oak Vodka,6837203267001
+86.alcohol-spirits,beverage,Jade River Whisky,6837203270001
+86.alcohol-spirits,beverage,Cedar Ember Gin,6837203273001
+86.alcohol-spirits,beverage,Blue Crane Rum,6837203276001
+86.alcohol-spirits,beverage,North Mist Tequila,6837203279001
+86.alcohol-spirits,beverage,Golden Reef Vodka,6837203282001
+86.alcohol-spirits,beverage,Night Lantern Whisky,6837203285001
+86.alcohol-spirits,beverage,Jade River Gin,6837203312001
+86.alcohol-spirits,beverage,Silver Kite Rum,6837203357001
+93.modifier-drink,modifiers,No Ice,6833272343001
+93.modifier-drink,modifiers,Light Ice,6833272346001
+93.modifier-drink,modifiers,Extra Ice,6833272349001
+93.modifier-drink,modifiers,Lemon Slice,6833272352001
+93.modifier-drink,modifiers,Lime Slice,6833272694001
+93.modifier-drink,modifiers,Orange Twist,68312301803001
+93.modifier-drink,modifiers,Mint Garnish,68312301806001
+93.modifier-drink,modifiers,Still Water Top Up,68312301809001
+93.modifier-drink,modifiers,Sparkling Water Top Up,68312301812001
+93.modifier-drink,modifiers,Oat Milk,68313500021001
+93.modifier-drink,modifiers,Soy Milk,68313500024001
+93.modifier-drink,modifiers,Almond Milk,68313500027001
+93.modifier-drink,modifiers,Coconut Milk,68313500039001
+93.modifier-drink,modifiers,Extra Shot,68313500045001
+93.modifier-drink,modifiers,Decaf,68313500051001
+93.modifier-drink,modifiers,Half Sweet,68313500054001
+93.modifier-drink,modifiers,No Sweetener,68313500060001
+93.modifier-drink,modifiers,Syrup on Side,68313500084001
+93.modifier-drink,modifiers,Tall Serve,68313500090001
+95.free modifiers,modifiers,Keep It Mild,68313501071001
+95.free modifiers,modifiers,Make It Medium,68313501074001
+95.free modifiers,modifiers,Turn Up the Heat,68313501077001
+95.free modifiers,modifiers,Sauce on Side,68313501080001
+95.free modifiers,modifiers,Dressing on Side,68313501083001
+95.free modifiers,modifiers,Hold Sesame,68313501086001
+95.free modifiers,modifiers,Hold Spring Onion,68313501089001
+95.free modifiers,modifiers,Hold Coriander,68313501092001
+95.free modifiers,modifiers,Hold Chilli,68313501095001
+95.free modifiers,modifiers,Hold Garlic,68313501098001
+95.free modifiers,modifiers,Hold Onion,68313501101001
+95.free modifiers,modifiers,Nut-Free Finish,68313501104001
+95.free modifiers,modifiers,Dairy-Free Finish,68313501107001
+95.free modifiers,modifiers,Egg-Free Finish,68313501110001
+95.free modifiers,modifiers,No Crumb Topping,68313501113001
+95.free modifiers,modifiers,Skip Crispy Topping,68313501116001
+95.free modifiers,modifiers,Hold Pickles,68313501119001
+95.free modifiers,modifiers,Hold Slaw,68313501122001
+95.free modifiers,modifiers,No Broth Oil,68313501125001
+95.free modifiers,modifiers,Less Salt,68313501134001
+95.free modifiers,modifiers,Less Oil,68313501155001
+95.free modifiers,modifiers,Half Rice,68313501158001
+95.free modifiers,modifiers,Half Noodles,68313501161001
+95.free modifiers,modifiers,Extra Veg,68313501164001
+95.free modifiers,modifiers,More Greens,68313501167001
+95.free modifiers,modifiers,More Broth,68313501170001
+95.free modifiers,modifiers,Cutlery Set,68313501176001
+95.free modifiers,modifiers,Chopsticks,68313501179001
+95.free modifiers,modifiers,Kids Bowl,68313501182001
+95.free modifiers,modifiers,Split Bowl,68313501185001
+95.free modifiers,modifiers,Separate Sauce,68313501188001
+95.free modifiers,modifiers,No Garnish,68313501191001
+95.free modifiers,modifiers,No Dressing,68313501194001
+95.free modifiers,modifiers,Skip Sweet Sauce,68313501197001
+95.free modifiers,modifiers,Skip Spicy Sauce,68313501200001
+95.free modifiers,modifiers,Extra Napkins,68313501203001
+95.free modifiers,modifiers,Lemon on Side,68313501206001
+95.free modifiers,modifiers,Lime on Side,68313501209001
+95.free modifiers,modifiers,Water Cup,68313501212001
+95.free modifiers,modifiers,Still Water,68313501215001
+95.free modifiers,modifiers,Sparkling Water,68313501218001
+95.free modifiers,modifiers,Side Plate,68313501221001
+95.free modifiers,modifiers,Allergy Flag,68313501224001
+95.free modifiers,modifiers,Plain Serve,68313501227001
+95.free modifiers,modifiers,Soft Texture,68313501230001
+95.free modifiers,modifiers,Well Cooked,68313501236001
+gift vouchers,misc,Dining Gift Voucher,6833273726001
+91.merchandise,merchandise,Signature Chopsticks,68313500303001
+91.merchandise,merchandise,Ceramic Noodle Bowl,68313500306001
+91.merchandise,merchandise,Canvas Tote Bag,68313500309001
+91.merchandise,merchandise,Tea Mug,68315000006001
+91.merchandise,merchandise,Branded Tumbler,68315000054001
+91.merchandise,merchandise,Chef Apron,68315000069001
+31.ef menu\set menu,food,Twilight Tasting Set,6833309069001
+31.ef menu\set menu,food,Lantern Feast Set,6833309072001
+31.ef menu\set menu,food,Garden Table Set,6833309075001
+31.ef menu\set menu,food,Evening Harmony Set,68324600189001
+21.sides,food,Sesame Salt Lotus Chips,6833012105001
+21.sides,food,Chilli Salt Lotus Chips,6833012108001
+21.sides,food,Yuzu Salt Lotus Chips,6833015117001
+21.sides,food,Miso Butter Sweetcorn,6833210099001
+21.sides,food,Chilli Butter Sweetcorn,6833210186001
+21.sides,food,Garlic Butter Sweetcorn,6833210189001
+21.sides,food,Sesame Greens,6833210231001
+21.sides,food,Garlic Soy Greens,6833210234001
+21.sides,food,Chilli Oil Greens,6833211509001
+21.sides,food,Crispy Mushrooms,6833211524001
+21.sides,food,Pepper Glaze Mushrooms,6833240057001
+21.sides,food,Soy Glaze Mushrooms,6833240069001
+21.sides,food,Miso Aubergine Bites,6833240072001
+21.sides,food,Chilli Aubergine Bites,6833240165001
+21.sides,food,Sesame Aubergine Bites,6833398742001
+21.sides,food,Crispy Cauliflower Bites,68312300903001
+21.sides,food,Spicy Cauliflower Bites,68312300906001
+21.sides,food,Sticky Soy Cauliflower,68312300909001
+21.sides,food,Pickled Sesame Cucumber,68324006132001
+21.sides,food,Lime Salt Cucumber,68324006135001
+21.sides,food,Chilli Pickled Cucumber,68324006144001
+21.sides,food,Yuzu Slaw,68324600195001
+51.desserts,food,Yuzu Cheesecake Slice,6833270027001
+51.desserts,food,Berry Cheesecake Slice,6833270138001
+51.desserts,food,Vanilla Cheesecake Slice,6833270144001
+51.desserts,food,Chocolate Miso Brownie,6833270156001
+51.desserts,food,Salted Caramel Brownie,6833270159001
+51.desserts,food,Orange Zest Brownie,6833270162001
+51.desserts,food,Mango Coconut Pudding,6833270165001
+51.desserts,food,Lychee Coconut Pudding,6833270171001
+51.desserts,food,Vanilla Coconut Pudding,6833270174001
+51.desserts,food,Matcha Tiramisu Pot,6833270177001
+51.desserts,food,Coffee Tiramisu Pot,6833270180001
+51.desserts,food,Cocoa Tiramisu Pot,6833270183001
+51.desserts,food,Black Sesame Parfait,6833270189001
+51.desserts,food,Strawberry Parfait,6833270192001
+51.desserts,food,Honey Parfait,6833270198001
+51.desserts,food,Peach Crumble Bowl,6833270201001
+51.desserts,food,Apple Crumble Bowl,6833270210001
+51.desserts,food,Cherry Crumble Bowl,6833270213001
+51.desserts,food,Mochi Trio,6833272151001
+51.desserts,food,Citrus Mochi Trio,6833272178001
+51.desserts,food,Berry Mochi Trio,6833272181001
+51.desserts,food,Dark Chocolate Torte,6833272184001
+51.desserts,food,Hazelnut Torte,6833272187001
+51.desserts,food,Caramel Torte,6833272190001
+51.desserts,food,Lemon Tart Slice,6833272202001
+51.desserts,food,Yuzu Tart Slice,6833272463001
+51.desserts,food,Passionfruit Tart Slice,6833272496001
+51.desserts,food,Coconut Rice Pudding,6833272916001
+51.desserts,food,Mango Rice Pudding,6833272919001
+51.desserts,food,Cardamom Rice Pudding,6833272922001
+51.desserts,food,Vanilla Bean Ice Cream,6833273966001
+51.desserts,food,Chocolate Ice Cream,6833273981001
+51.desserts,food,Strawberry Ice Cream,6833300081001
+51.desserts,food,Matcha Sundae,6833300084001
+51.desserts,food,Caramel Sundae,6833300183001
+51.desserts,food,Berry Sundae,6836660405001
+51.desserts,food,Sticky Toffee Pot,6836660408001
+51.desserts,food,Date Toffee Pot,6836660411001
+51.desserts,food,Maple Toffee Pot,68312301962001
+51.desserts,food,Cinnamon Dough Bites,68312301968001
+51.desserts,food,Chocolate Dough Bites,68312301971001
+51.desserts,food,Sugar Dough Bites,68324600198001
+41.drinks-hot beverages,food,House Espresso,6833271965001
+41.drinks-hot beverages,food,Double Espresso,6833271944001
+41.drinks-hot beverages,food,Velvet Americano,6833271950001
+41.drinks-hot beverages,food,Midnight Americano,6833272004001
+41.drinks-hot beverages,food,House Flat White,6833272007001
+41.drinks-hot beverages,food,Vanilla Flat White,6833272010001
+41.drinks-hot beverages,food,Hazelnut Flat White,6833272040001
+41.drinks-hot beverages,food,Caramel Latte,6833272340001
+41.drinks-hot beverages,food,Vanilla Latte,6833272355001
+41.drinks-hot beverages,food,Honey Latte,6833272358001
+41.drinks-hot beverages,food,Coconut Latte,6833272361001
+41.drinks-hot beverages,food,Oat Latte,6833272364001
+41.drinks-hot beverages,food,Velvet Cappuccino,6833272367001
+41.drinks-hot beverages,food,Cocoa Cappuccino,6833272370001
+41.drinks-hot beverages,food,Maple Cappuccino,6833272373001
+41.drinks-hot beverages,food,Dark Mocha,6833272382001
+41.drinks-hot beverages,food,Salted Mocha,6833272385001
+41.drinks-hot beverages,food,White Mocha,6833272388001
+41.drinks-hot beverages,food,Classic Hot Chocolate,6833272391001
+41.drinks-hot beverages,food,Salted Caramel Hot Chocolate,6833272394001
+41.drinks-hot beverages,food,Spiced Chai Latte,6833272397001
+41.drinks-hot beverages,food,Vanilla Chai Latte,6833272697001
+41.drinks-hot beverages,food,Matcha Cloud Latte,6833273759001
+41.drinks-hot beverages,food,Coconut Matcha Latte,6833273762001
+41.drinks-hot beverages,food,Jasmine Green Tea,6833273801001
+41.drinks-hot beverages,food,Sencha Green Tea,6833273804001
+41.drinks-hot beverages,food,Citrus Green Tea,6833273807001
+41.drinks-hot beverages,food,Ginger Green Tea,6833273810001
+41.drinks-hot beverages,food,English Breakfast Tea,6833273813001
+41.drinks-hot beverages,food,Earl Grey Tea,6833273816001
+41.drinks-hot beverages,food,Peach Black Tea,6833273819001
+41.drinks-hot beverages,food,Apple Spice Tea,6833273822001
+41.drinks-hot beverages,food,Mint Infusion,6833273825001
+41.drinks-hot beverages,food,Lemon Ginger Infusion,6833273828001
+41.drinks-hot beverages,food,Chamomile Blossom Tea,6833273831001
+41.drinks-hot beverages,food,Berry Hibiscus Tea,6833273834001
+41.drinks-hot beverages,food,Yuzu White Tea,6833273837001
+41.drinks-hot beverages,food,Rose White Tea,6833273840001
+41.drinks-hot beverages,food,Toasted Rice Tea,6833273843001
+41.drinks-hot beverages,food,Honeybush Tea,6833273849001
+41.drinks-hot beverages,food,Vanilla Rooibos,6833273852001
+41.drinks-hot beverages,food,Cinnamon Rooibos,6833273855001
+41.drinks-hot beverages,food,Orange Spice Tea,6833273858001
+41.drinks-hot beverages,food,Lychee Green Tea,6833273861001
+41.drinks-hot beverages,food,Lemon Verbena Tea,6833273864001
+41.drinks-hot beverages,food,Peppermint Tea,6833273870001
+41.drinks-hot beverages,food,Mango Green Tea,6833273873001
+41.drinks-hot beverages,food,Plum Blossom Tea,6833273876001
+41.drinks-hot beverages,food,Turmeric Glow Latte,6833273879001
+41.drinks-hot beverages,food,Sesame Honey Latte,6833273882001
+41.drinks-hot beverages,food,Brown Sugar Latte,6833273888001
+41.drinks-hot beverages,food,Maple Oat Latte,6833273891001
+41.drinks-hot beverages,food,Cinnamon Oat Latte,6833273894001
+41.drinks-hot beverages,food,Coconut Cacao Latte,6833273897001
+41.drinks-hot beverages,food,Vanilla Almond Latte,6833273900001
+41.drinks-hot beverages,food,Hazelnut Oat Latte,6833273906001
+41.drinks-hot beverages,food,Rose Matcha Latte,6833273909001
+41.drinks-hot beverages,food,Citrus Matcha Latte,6833273912001
+41.drinks-hot beverages,food,Ginger Chai Latte,6833273915001
+41.drinks-hot beverages,food,Cardamom Chai Latte,6833273918001
+41.drinks-hot beverages,food,Salted Vanilla Latte,6833273921001
+41.drinks-hot beverages,food,Toasted Coconut Latte,6833273924001
+41.drinks-hot beverages,food,Golden Milk,6833273990001
+41.drinks-hot beverages,food,Spiced Cacao,6836306033001
+41.drinks-hot beverages,food,White Chocolate Matcha,6836306036001
+41.drinks-hot beverages,food,Honey Ginger Tea Latte,6836306048001
+41.drinks-hot beverages,food,Black Sesame Latte,6836306306001
+71.other-extras,food,Extra Portion of Katsu Sauce,6833210237001
+71.other-extras,food,Extra Portion of Curry Sauce,6833240003001
+71.other-extras,food,Extra Portion of Sweet Soy,6833240006001
+71.other-extras,food,Extra Portion of Yuzu Mayo,6833240009001
+71.other-extras,food,Extra Portion of Kimchi,6833240012001
+71.other-extras,food,Extra Portion of House Slaw,6833240015001
+71.other-extras,food,Extra Portion of Steamed Rice,6833240018001
+71.other-extras,food,Extra Portion of Coconut Rice,6833240021001
+71.other-extras,food,Extra Portion of Noodles,6833240042001
+71.other-extras,food,Extra Portion of Broth,6833240045001
+71.other-extras,food,Extra Portion of House Pickles,6833240051001
+71.other-extras,food,Extra Portion of Steamed Greens,6833240054001
+71.other-extras,food,Extra Portion of Crispy Onions,6833240075001
+71.other-extras,food,Extra Portion of Sesame Seeds,6833240078001
+71.other-extras,food,Extra Portion of Garlic Oil,6833240093001
+71.other-extras,food,Extra Portion of Chilli Oil,6833240096001
+71.other-extras,food,Extra Portion of Edamame,6833240099001
+71.other-extras,food,Extra Portion of Gyoza,6833240102001
+71.other-extras,food,Extra Portion of Tofu Bites,6833240105001
+71.other-extras,food,Extra Portion of Sweetcorn,6833240108001
+71.other-extras,food,Extra Portion of Mushrooms,6833240114001
+71.other-extras,food,Extra Portion of Cauliflower,6833240120001
+71.other-extras,food,Extra Portion of Aubergine,6833240123001
+71.other-extras,food,Extra Portion of Cucumber Salad,6833240126001
+71.other-extras,food,Extra Portion of Spring Onion,6833240129001
+71.other-extras,food,Extra Portion of Coriander,6833240132001
+71.other-extras,food,Extra Portion of Lime Wedge,6833240162001
+71.other-extras,food,Extra Portion of Peanut Crunch,6833240171001
+71.other-extras,food,Extra Portion of Cashew Crunch,6833272280001
+71.other-extras,food,Side Bowl of Katsu Sauce,6833272424001
+71.other-extras,food,Side Bowl of Curry Sauce,6833272601001
+71.other-extras,food,Side Bowl of Sweet Soy,6833272685001
+71.other-extras,food,Side Bowl of Yuzu Mayo,6833393177001
+71.other-extras,food,Side Bowl of Kimchi,6833393234001
+71.other-extras,food,Side Bowl of House Slaw,6833393237001
+71.other-extras,food,Side Bowl of Steamed Rice,6833423003001
+71.other-extras,food,Side Bowl of Coconut Rice,6833423012001
+71.other-extras,food,Side Bowl of Noodles,6833423015001
+71.other-extras,food,Side Bowl of Broth,6833423018001
+71.other-extras,food,Side Bowl of House Pickles,6833423021001
+71.other-extras,food,Side Bowl of Steamed Greens,6833423024001
+71.other-extras,food,Side Bowl of Crispy Onions,6833423027001
+71.other-extras,food,Side Bowl of Sesame Seeds,6833423030001
+71.other-extras,food,Side Bowl of Garlic Oil,6833423033001
+71.other-extras,food,Side Bowl of Chilli Oil,6836660246001
+71.other-extras,food,Side Bowl of Edamame,6836660249001
+71.other-extras,food,Side Bowl of Gyoza,6836660261001
+71.other-extras,food,Side Bowl of Tofu Bites,6836660378001
+71.other-extras,food,Side Bowl of Sweetcorn,68312303153001
+71.other-extras,food,Side Bowl of Mushrooms,68313800003001
+71.other-extras,food,Side Bowl of Cauliflower,68313800006001
+71.other-extras,food,Side Bowl of Aubergine,68313800009001
+71.other-extras,food,Side Bowl of Cucumber Salad,68313800012001
+71.other-extras,food,Side Bowl of Spring Onion,68313800015001
+71.other-extras,food,Side Bowl of Coriander,68313800018001
+71.other-extras,food,Side Bowl of Lime Wedge,68313800021001
+71.other-extras,food,Side Bowl of Peanut Crunch,68313800024001
+71.other-extras,food,Side Bowl of Cashew Crunch,68313800027001
+71.other-extras,food,Share Portion of Katsu Sauce,68313800030001
+71.other-extras,food,Share Portion of Curry Sauce,68313800033001
+71.other-extras,food,Share Portion of Sweet Soy,68313800036001
+71.other-extras,food,Share Portion of Yuzu Mayo,68313800039001
+71.other-extras,food,Share Portion of Kimchi,68313800042001
+71.other-extras,food,Share Portion of House Slaw,68313800045001
+71.other-extras,food,Share Portion of Steamed Rice,68313800048001
+71.other-extras,food,Share Portion of Coconut Rice,68313800069001
+71.other-extras,food,Share Portion of Noodles,68313800072001
+71.other-extras,food,Share Portion of Broth,68313800075001
+71.other-extras,food,Share Portion of House Pickles,68313800078001
+71.other-extras,food,Share Portion of Steamed Greens,68313800081001
+71.other-extras,food,Share Portion of Crispy Onions,68313800084001
+71.other-extras,food,Share Portion of Sesame Seeds,68313800087001
+71.other-extras,food,Share Portion of Garlic Oil,68313800090001
+71.other-extras,food,Share Portion of Chilli Oil,68313800093001
+71.other-extras,food,Share Portion of Edamame,68313800096001
+71.other-extras,food,Share Portion of Gyoza,68313800099001
+71.other-extras,food,Share Portion of Tofu Bites,68313800102001
+71.other-extras,food,Share Portion of Sweetcorn,68313800108001
+71.other-extras,food,Share Portion of Mushrooms,68313800111001
+71.other-extras,food,Share Portion of Cauliflower,68313800117001
+71.other-extras,food,Share Portion of Aubergine,68313800120001
+71.other-extras,food,Share Portion of Cucumber Salad,68313800126001
+71.other-extras,food,Share Portion of Spring Onion,68313800129001
+71.other-extras,food,Share Portion of Coriander,68313800132001
+71.other-extras,food,Share Portion of Lime Wedge,68313800135001
+71.other-extras,food,Share Portion of Peanut Crunch,68313800138001
+71.other-extras,food,Share Portion of Cashew Crunch,68313800141001
+71.other-extras,food,Katsu Sauce Add-On,68313800144001
+71.other-extras,food,Curry Sauce Add-On,68313800147001
+71.other-extras,food,Sweet Soy Add-On,68313800150001
+71.other-extras,food,Yuzu Mayo Add-On,68313800153001
+71.other-extras,food,Kimchi Add-On,68313800156001
+71.other-extras,food,House Slaw Add-On,68313800159001
+71.other-extras,food,Steamed Rice Add-On,68313800174001
+71.other-extras,food,Coconut Rice Add-On,68313800177001
+71.other-extras,food,Noodles Add-On,68313800180001
+71.other-extras,food,Broth Add-On,68313800183001
+71.other-extras,food,House Pickles Add-On,68313800186001
+71.other-extras,food,Steamed Greens Add-On,68313800189001
+71.other-extras,food,Crispy Onions Add-On,68313800222001
+71.other-extras,food,Sesame Seeds Add-On,68313800225001
+71.other-extras,food,Garlic Oil Add-On,68313800228001
+71.other-extras,food,Chilli Oil Add-On,68313800231001
+71.other-extras,food,Edamame Add-On,68313800234001
+71.other-extras,food,Gyoza Add-On,68313800237001
+71.other-extras,food,Tofu Bites Add-On,68313800240001
+71.other-extras,food,Sweetcorn Add-On,68313800243001
+71.other-extras,food,Mushrooms Add-On,68313800246001
+71.other-extras,food,Cauliflower Add-On,68313800249001
+71.other-extras,food,Aubergine Add-On,68313800252001
+71.other-extras,food,Cucumber Salad Add-On,68313800255001
+71.other-extras,food,Spring Onion Add-On,68313800258001
+71.other-extras,food,Coriander Add-On,68313800261001
+71.other-extras,food,Lime Wedge Add-On,68313800264001
+71.other-extras,food,Peanut Crunch Add-On,68313800267001
+71.other-extras,food,Cashew Crunch Add-On,68313800273001
+13.mains-ramen,food,Ember Miso Ramen,6833003024001
+13.mains-ramen,food,Golden Garlic Ramen,6833003045001
+13.mains-ramen,food,Shiro Sesame Ramen,6833003051001
+13.mains-ramen,food,Citrus Broth Ramen,6833003075001
+13.mains-ramen,food,Midnight Soy Ramen,6833003102001
+14.mains-donburi,food,Teriyaki Mushroom Donburi,6833009072001
+11.mains-curry,food,Golden Coconut Curry,6833012084001
+110.mains-omakase,food,Chef's Lantern Omakase,6833012096001
+12.mains-teppanyaki,food,Pepper Flame Teppanyaki,6833012099001
+111.mains-kokoro,food,Sunny Tofu Kokoro Bowl,6833272592001
+110.mains-omakase,food,Moon Garden Omakase,6833012102001
+111.mains-kokoro,food,Golden Chicken Kokoro Bowl,6833272640001
+12.mains-teppanyaki,food,Garlic Silk Teppanyaki,6833012117001
+12.mains-teppanyaki,food,Sesame Smoke Teppanyaki,6833012120001
+12.mains-teppanyaki,food,Citrus Soy Teppanyaki,6833317475001
+11.mains-curry,food,Smoky Tamarind Curry,6833015045001
+13.mains-ramen,food,Firecracker Chicken Ramen,6833272574001
+13.mains-ramen,food,Mushroom Silk Ramen,6833272586001
+12.mains-teppanyaki,food,Miso Glaze Teppanyaki,6833272292001
+12.mains-teppanyaki,food,Ginger Lime Teppanyaki,6833272295001
+12.mains-teppanyaki,food,Firecracker Teppanyaki,6833317535001
+16.mains-salads,food,Yuzu Herb Salad,6836660009001
+13.mains-ramen,food,Coconut Spice Ramen,6837200006001
+16.mains-salads,food,Sesame Crunch Salad,6837200099001
+16.mains-salads,food,Charred Corn Salad,6837200126001
+16.mains-salads,food,Ginger Slaw Salad,6837200129001
+16.mains-salads,food,Mango Lime Salad,6837200246001
+16.mains-salads,food,Crispy Tofu Salad,6837200249001
+16.mains-salads,food,Chicken Garden Salad,6837200258001
+16.mains-salads,food,Prawn Citrus Salad,6837200261001
+mains-bundles,food,Ramen Night Bundle,68324600159001
+mains-bundles,food,Curry Table Bundle,68324600162001
+mains-bundles,food,Family Feast Bundle,68324600165001
+mains-bundles,food,Lunch Duo Bundle,68324600171001
+42.drinks-juices and smo,food,Mango Lime Juice,6833300075001
+42.drinks-juices and smo,food,Mango Lime Smoothie,6833300078001
+42.drinks-juices and smo,food,Mango Lime Cooler,6833300174001
+42.drinks-juices and smo,food,Peach Ginger Juice,6836004509001
+42.drinks-juices and smo,food,Peach Ginger Smoothie,6836004917001
+62.drinks-free,beverage,Table Water,6836015033001
+62.drinks-free,beverage,Sparkling Table Water,6836015036001
+62.drinks-free,beverage,Kids Water Cup,6836015171001
+62.drinks-free,beverage,Refill Water,6836309003001
+42.drinks-juices and smo,food,Peach Ginger Cooler,6836660159001
+42.drinks-juices and smo,food,Berry Banana Juice,6836930141001
+42.drinks-juices and smo,food,Berry Banana Smoothie,6836930150001
+42.drinks-juices and smo,food,Berry Banana Cooler,6836930153001
+19.mains-childrens,food,Little Katsu Bites,6833300045001
+19.mains-childrens,food,Tiny Katsu Bites,6833300042001
+19.mains-childrens,food,Mini Katsu Bites,6833300048001
+19.mains-childrens,food,Happy Katsu Bites,6833300051001
+19.mains-childrens,food,Little Noodle Bowl,6833300024001
+19.mains-childrens,food,Tiny Noodle Bowl,6833300003001
+19.mains-childrens,food,Mini Noodle Bowl,6833300021001
+19.mains-childrens,food,Happy Noodle Bowl,6833300030001
+19.mains-childrens,food,Little Rice Bowl,6833300006001
+19.mains-childrens,food,Tiny Rice Bowl,6833300039001
+19.mains-childrens,food,Mini Rice Bowl,6833317514001
+19.mains-childrens,food,Happy Rice Bowl,6833300033001
+19.mains-childrens,food,Little Chicken Pops,6833300054001
+19.mains-childrens,food,Tiny Chicken Pops,6833300036001
+19.mains-childrens,food,Mini Chicken Pops,6833317511001
+19.mains-childrens,food,Happy Chicken Pops,6833317523001
+19.mains-childrens,food,Little Veggie Noodles,6833317490001
+19.mains-childrens,food,Tiny Veggie Noodles,6833317499001
+19.mains-childrens,food,Mini Veggie Noodles,6833317508001
+19.mains-childrens,food,Happy Veggie Noodles,6833317520001
+19.mains-childrens,food,Little Mini Curry,6833272406001
+19.mains-childrens,food,Tiny Mini Curry,6833272418001
+19.mains-childrens,food,Mini Mini Curry,6833272409001
+19.mains-childrens,food,Happy Mini Curry,6833272421001
+19.mains-childrens,food,Little Grilled Noodles,6833272412001
+19.mains-childrens,food,Tiny Grilled Noodles,6833272415001
+19.mains-childrens,food,Mini Grilled Noodles,6833272505001
+19.mains-childrens,food,Happy Grilled Noodles,6833272499001
+19.mains-childrens,food,Little Sweetcorn Fritters,6833272403001
+19.mains-childrens,food,Tiny Sweetcorn Fritters,6833273969001
+19.mains-childrens,food,Mini Sweetcorn Fritters,6833273978001
+19.mains-childrens,food,Happy Sweetcorn Fritters,6833300027001
+19.mains-childrens,food,Little Crispy Tenders,6833300057001
+19.mains-childrens,food,Tiny Crispy Tenders,6833300060001
+19.mains-childrens,food,Mini Crispy Tenders,6833300063001
+19.mains-childrens,food,Happy Crispy Tenders,6833300066001
+19.mains-childrens,food,Little Tofu Bites,6833300069001
+19.mains-childrens,food,Tiny Tofu Bites,6833300072001
+19.mains-childrens,food,Mini Tofu Bites,6833300105001
+19.mains-childrens,food,Happy Tofu Bites,6833300108001
+19.mains-childrens,food,Little Prawn Pops,6833300111001
+19.mains-childrens,food,Tiny Prawn Pops,6833300114001
+19.mains-childrens,food,Mini Prawn Pops,6833300117001
+19.mains-childrens,food,Happy Prawn Pops,6833300120001
+19.mains-childrens,food,Little Veggie Rice,6833300123001
+19.mains-childrens,food,Tiny Veggie Rice,6833300126001
+19.mains-childrens,food,Mini Veggie Rice,6833300129001
+19.mains-childrens,food,Happy Veggie Rice,6833300132001
+19.mains-childrens,food,Little Mild Ramen,6833300135001
+19.mains-childrens,food,Tiny Mild Ramen,6833300162001
+19.mains-childrens,food,Mini Mild Ramen,6833300165001
+19.mains-childrens,food,Happy Mild Ramen,6833300168001
+19.mains-childrens,food,Little Dumpling Plate,6833300171001
+19.mains-childrens,food,Tiny Dumpling Plate,6833300177001
+19.mains-childrens,food,Mini Dumpling Plate,6833300180001
+19.mains-childrens,food,Happy Dumpling Plate,6833317487001
+19.mains-childrens,food,Little Teriyaki Bites,6833317496001
+19.mains-childrens,food,Tiny Teriyaki Bites,6833317505001
+19.mains-childrens,food,Mini Teriyaki Bites,6833317517001
+19.mains-childrens,food,Happy Teriyaki Bites,6833317538001
+19.mains-childrens,food,Little Cheeky Fries,6833317541001
+19.mains-childrens,food,Tiny Cheeky Fries,6833317544001
+19.mains-childrens,food,Mini Cheeky Fries,6833393210001
+19.mains-childrens,food,Happy Cheeky Fries,6833393213001
+19.mains-childrens,food,Little Garden Bowl,6833393222001
+19.mains-childrens,food,Tiny Garden Bowl,6833393225001
+19.mains-childrens,food,Mini Garden Bowl,6833393228001
+19.mains-childrens,food,Happy Garden Bowl,6833393231001
+21.sides,food,Kimchi Slaw,6833210264001
+21.sides,food,Ginger Slaw,6833210306001
+21.sides,food,Garlic Rice Pot,6833210303001
+21.sides,food,Coconut Rice Pot,6833210300001
+21.sides,food,Sesame Rice Pot,6833210318001
+21.sides,food,Crispy Tofu Bites,6833272619001
+21.sides,food,Chilli Tofu Bites,6833240048001
+21.sides,food,Ginger Tofu Bites,6833210228001
+21.sides,food,Sea Salt Fries,6833210282001
+21.sides,food,Truffle Fries,6833210285001
+21.sides,food,Chilli Fries,6833210204001
+21.sides,food,Spring Onion Cakes,6833210315001
+21.sides,food,Kimchi Cakes,6833210312001
+21.sides,food,Sesame Cakes,6833210309001
+21.sides,food,Garlic Broccoli Spears,6833210003001
+21.sides,food,Chilli Broccoli Spears,6833210018001
+21.sides,food,Lemon Broccoli Spears,6833210048001
+21.sides,food,Veg Gyoza Plate,6833210084001
+21.sides,food,Crispy Gyoza Plate,6833210090001
+21.sides,food,Chilli Gyoza Plate,6833211503001
+21.sides,food,Sea Salt Edamame,6833211506001
+21.sides,food,Chilli Edamame,6833211515001
+21.sides,food,Garlic Edamame,6833211518001
+21.sides,food,Sea Salt Sweet Potato,6833272016001
+21.sides,food,Chilli Sweet Potato,6833317406001
+21.sides,food,Sesame Sweet Potato,6833272571001
+21.sides,food,Sesame Bean Sprout Salad,6833272019001
+21.sides,food,Lime Bean Sprout Salad,6833317409001
+51.desserts,food,Coconut Sorbet,6833270006001
+51.desserts,food,Lemon Sorbet,6833270018001
+51.desserts,food,Mango Sorbet,6833270021001
+51.desserts,food,Sesame Cookie Stack,6833270099001
+51.desserts,food,Chocolate Cookie Stack,6833272175001
+51.desserts,food,Vanilla Cookie Stack,6833272460001
+51.desserts,food,Pear Almond Cake,6833317469001
+51.desserts,food,Apple Almond Cake,6833317442001
+51.desserts,food,Berry Almond Cake,6833272466001
+51.desserts,food,Yoghurt Honey Pot,6833272727001
+51.desserts,food,Berry Yoghurt Pot,6833272913001
+21.sides,food,Ginger Bean Sprout Salad,6833393006001
+21.sides,food,Miso Corn Ribs,6833393009001
+21.sides,food,Chilli Corn Ribs,6836660003001
+51.desserts,food,Peach Yoghurt Pot,6836660381001
+51.desserts,food,Caramel Custard Pot,6836660390001
+51.desserts,food,Vanilla Custard Pot,6836660393001
+51.desserts,food,Orange Custard Pot,6836660396001
+21.sides,food,Sesame Corn Ribs,68324006138001
+11.mains-curry,food,Mellow Ginger Curry,6833015132001
+13.mains-ramen,food,Tender Beef Ramen,6833003018001
+11.mains-curry,food,Fire Leaf Curry,6833015138001
+13.mains-ramen,food,Tofu Garden Ramen,6833003021001
+11.mains-curry,food,Velvet Pumpkin Curry,6833015135001
+11.mains-curry,food,Charred Aubergine Curry,6833015141001
+11.mains-curry,food,Green Herb Curry,6833015150001
+13.mains-ramen,food,Prawn Lantern Ramen,6833003030001
+12.mains-teppanyaki,food,Velvet Mushroom Teppanyaki,6833272376001
+13.mains-ramen,food,Black Garlic Ramen,6833003057001
+13.mains-ramen,food,Ginger Breeze Ramen,6833003060001
+14.mains-donburi,food,Golden Chicken Donburi,6833009054001
+14.mains-donburi,food,Chilli Tofu Donburi,6833009057001
+15.mains-chilli,food,Red Ember Chilli,6833006012001
+15.mains-chilli,food,Smoky Bean Chilli,6833006015001
+14.mains-donburi,food,Sesame Beef Donburi,6833009024001
+14.mains-donburi,food,Crispy Aubergine Donburi,6833009027001
+11.mains-curry,food,Lime Leaf Curry,6833015033001
+11.mains-curry,food,Creamy Mushroom Curry,6833015066001
+11.mains-curry,food,Tofu Ember Curry,6833015087001
+11.mains-curry,food,Chicken Lantern Curry,6833015069001
+11.mains-curry,food,Prawn Coast Curry,6833015072001
+12.mains-teppanyaki,food,Garden Greens Teppanyaki,6833012003001
+11.mains-curry,food,Slow Spice Beef Curry,6833015096001
+12.mains-teppanyaki,food,Chicken Pepper Teppanyaki,6833012006001
+11.mains-curry,food,Garden Pea Curry,6833015102001
+12.mains-teppanyaki,food,Prawn Ember Teppanyaki,6833012012001
+11.mains-curry,food,Sesame Sweet Potato Curry,6833015099001
+12.mains-teppanyaki,food,Beef Lantern Teppanyaki,6833012018001
+12.mains-teppanyaki,food,Tofu Sesame Teppanyaki,6833012027001
+12.mains-teppanyaki,food,Aubergine Miso Teppanyaki,6833012030001
+11.mains-curry,food,Cauliflower Chilli Teppanyaki,6833015084001
+11.mains-curry,food,Sweet Soy Teppanyaki,6833015078001
+12.mains-teppanyaki,food,Black Pepper Teppanyaki,6833012045001
+11.mains-curry,food,Coconut Ginger Teppanyaki,6833015093001
+12.mains-teppanyaki,food,Charred Corn Teppanyaki,6833012048001
+12.mains-teppanyaki,food,Shiso Herb Teppanyaki,6833012051001
+14.mains-donburi,food,Yuzu Prawn Donburi,6833012060001
+11.mains-curry,food,Roasted Cauliflower Curry,6833015006001
+11.mains-curry,food,Midnight Pepper Curry,6833015090001
+12.mains-teppanyaki,food,Sticky Garlic Teppanyaki,6833272223001
+12.mains-teppanyaki,food,Yuzu Pepper Teppanyaki,6833272313001
+12.mains-teppanyaki,food,Roasted Garlic Teppanyaki,6833272226001
+12.mains-teppanyaki,food,House Noodle Teppanyaki,6833272307001
+12.mains-teppanyaki,food,Golden Wok Teppanyaki,6833272310001
+13.mains-ramen,food,Yuzu Pepper Ramen,6833271989001
+13.mains-ramen,food,Roasted Corn Ramen,6833272214001
+13.mains-ramen,food,Smoky Aubergine Ramen,6833317424001
+11.mains-curry,food,Cashew Silk Curry,6836660018001
+13.mains-ramen,food,Autumn Greens Ramen,6836660054001
+111.mains-kokoro,food,Sesame Greens Kokoro Bowl,6836930087001
+111.mains-kokoro,food,Pepper Beef Kokoro Bowl,6836930123001
+15.mains-chilli,food,Fire Garden Chilli,6836930126001
+11.mains-curry,food,Maple Chilli Curry,6836930171001
+11.mains-curry,food,Sunny Coconut Lime Curry,6836930174001
+111.mains-kokoro,food,Yuzu Mushroom Kokoro Bowl,6836930198001
+111.mains-kokoro,food,Spiced Prawn Kokoro Bowl,6836930201001
+111.mains-kokoro,food,House Garden Kokoro Bowl,6836930204001
+11.mains-curry,food,Three Herb Curry,6837200027001
+11.mains-curry,food,Coriander Breeze Curry,6837200030001
+11.mains-curry,food,House Signature Curry,6837200042001
+16.mains-salads,food,Aubergine Ribbon Salad,6837200252001
+16.mains-salads,food,Miso Mushroom Salad,6837200255001
+16.mains-salads,food,Tender Greens Salad,6837200279001
+16.mains-salads,food,Pickled Cucumber Salad,6837200282001
+42.drinks-juices and smo,food,Apple Mint Juice,6833393042001
+42.drinks-juices and smo,food,Apple Mint Smoothie,6833393045001
+42.drinks-juices and smo,food,Apple Mint Cooler,6833393090001
+42.drinks-juices and smo,food,Pineapple Coconut Juice,6833393093001
+42.drinks-juices and smo,food,Pineapple Coconut Smoothie,6833393096001
+42.drinks-juices and smo,food,Pineapple Coconut Cooler,6833393141001
+42.drinks-juices and smo,food,Lychee Lemon Juice,6833393144001
+42.drinks-juices and smo,food,Lychee Lemon Smoothie,6833393258001
+42.drinks-juices and smo,food,Lychee Lemon Cooler,6833393261001
+42.drinks-juices and smo,food,Watermelon Basil Juice,6833393270001
+42.drinks-juices and smo,food,Watermelon Basil Smoothie,6833393273001
+42.drinks-juices and smo,food,Watermelon Basil Cooler,6836004809001
+42.drinks-juices and smo,food,Orange Turmeric Juice,6836004824001
+42.drinks-juices and smo,food,Orange Turmeric Smoothie,6836004827001
+42.drinks-juices and smo,food,Orange Turmeric Cooler,6836004941001
+42.drinks-juices and smo,food,Passionfruit Peach Juice,6836004944001
+42.drinks-juices and smo,food,Passionfruit Peach Smoothie,6836005031001
+42.drinks-juices and smo,food,Passionfruit Peach Cooler,6836005034001
+42.drinks-juices and smo,food,Cherry Citrus Juice,6836005049001
+42.drinks-juices and smo,food,Cherry Citrus Smoothie,6836005052001
+42.drinks-juices and smo,food,Cherry Citrus Cooler,6836660162001
+42.drinks-juices and smo,food,Pear Kiwi Juice,6836660165001
+42.drinks-juices and smo,food,Pear Kiwi Smoothie,6836930144001
+42.drinks-juices and smo,food,Pear Kiwi Cooler,6836930147001
+86.alcohol-spirits,beverage,Cedar Ember Tequila,6833272721001
+86.alcohol-spirits,beverage,North Mist Vodka,6833272724001
+85.alcohol-other,beverage,Rose Terrace Aperitif,6833273777001
+85.alcohol-other,beverage,Yuzu Sunset Cooler,6833273780001
+85.alcohol-other,beverage,Peach Grove Bellini,6833273783001
+81.non alcohol-soft drin,beverage,Ginger Blossom Sparkler,6833273786001
+85.alcohol-other,beverage,Cranberry Ember Fizz,6833273789001
+81.non alcohol-soft drin,beverage,Apple Mint Soda,6833273792001
+81.non alcohol-soft drin,beverage,Berry Drift Fizz,6833273942001
+81.non alcohol-soft drin,beverage,Mango Zing Sparkler,6833273945001
+81.non alcohol-soft drin,beverage,Blood Orange Soda,6833398220001
+81.non alcohol-soft drin,beverage,Pineapple Twist Fizz,6833398223001
+81.non alcohol-soft drin,beverage,Cloud Lime Sparkler,6833398250001
+81.non alcohol-soft drin,beverage,Peach Leaf Soda,6833398253001
+85.alcohol-other,beverage,White Peach Cooler,6836005091001
+82.alcohol-beer,beverage,River Mile Pilsner,6836006003001
+81.non alcohol-soft drin,beverage,Grain House Lager,6836006030001
+82.alcohol-beer,beverage,Copper Crane Pilsner,6836006051001
+82.alcohol-beer,beverage,River Mile Lager,6836006123001
+82.alcohol-beer,beverage,North Pier Pilsner,6836006126001
+82.alcohol-beer,beverage,Copper Crane Lager,6836006129001
+82.alcohol-beer,beverage,Golden Lantern Pilsner,6836006138001
+82.alcohol-beer,beverage,North Pier Lager,6836006141001
+82.alcohol-beer,beverage,Harbour Draft Pilsner,6836006144001
+82.alcohol-beer,beverage,Golden Lantern Lager,6836006489001
+82.alcohol-beer,beverage,Maple Tap Pilsner,6836006492001
+83.alcohol-wine,beverage,Golden Orchard Chardonnay,6836010206001
+83.alcohol-wine,beverage,Moonlit Ridge Albariño,6836010209001
+83.alcohol-wine,beverage,Blue Heron Pinot Noir,6836010227001
+83.alcohol-wine,beverage,Quiet River Shiraz,6836010230001
+83.alcohol-wine,beverage,Silver Vale Grenache,6836012354001
+83.alcohol-wine,beverage,Ivory Hill Blush Rosé,6836012357001
+83.alcohol-wine,beverage,Willow Brook Chardonnay,6836012360001
+83.alcohol-wine,beverage,Stone Garden Viognier,6836012363001
+83.alcohol-wine,beverage,Copper Field Pinot Noir,6836012369001
+83.alcohol-wine,beverage,North Star Cabernet,6836012372001
+83.alcohol-wine,beverage,Red Lantern Tempranillo,6836012375001
+83.alcohol-wine,beverage,Amber Coast Blush Rosé,6836012378001
+83.alcohol-wine,beverage,Golden Orchard Pinot Grigio,6836012414001
+83.alcohol-wine,beverage,Moonlit Ridge Viognier,6836012417001
+83.alcohol-wine,beverage,Blue Heron Rosé,6836012420001
+83.alcohol-wine,beverage,Quiet River Cabernet,6836012423001
+83.alcohol-wine,beverage,Silver Vale Tempranillo,6836012489001
+83.alcohol-wine,beverage,Ivory Hill Sparkling Brut,6836012492001
+83.alcohol-wine,beverage,Willow Brook Pinot Grigio,6836012495001
+83.alcohol-wine,beverage,Stone Garden Riesling,6836012498001
+83.alcohol-wine,beverage,Copper Field Rosé,6836012504001
+83.alcohol-wine,beverage,North Star Merlot,6836012507001
+83.alcohol-wine,beverage,Red Lantern Malbec,6836012510001
+83.alcohol-wine,beverage,Amber Coast Sparkling Brut,6836012513001
+83.alcohol-wine,beverage,Golden Orchard Sauvignon Blanc,6836012519001
+83.alcohol-wine,beverage,Moonlit Ridge Riesling,6836012522001
+83.alcohol-wine,beverage,Blue Heron Albariño,6836012525001
+83.alcohol-wine,beverage,Quiet River Merlot,6836012528001
+83.alcohol-wine,beverage,Silver Vale Malbec,6836012534001
+83.alcohol-wine,beverage,Ivory Hill Grenache,6836012537001
+81.non alcohol-soft drin,beverage,Pear Spark Fizz,6836013806001
+81.non alcohol-soft drin,beverage,Cucumber Breeze Sparkler,6836013809001
+81.non alcohol-soft drin,beverage,Lemon Grove Soda,6836013812001
+81.non alcohol-soft drin,beverage,Passionfruit Wave Fizz,6836015003001
+81.non alcohol-soft drin,beverage,Cherry Fizz Sparkler,6836015006001
+81.non alcohol-soft drin,beverage,Yuzu Citrus Soda,6836015009001
+81.non alcohol-soft drin,beverage,Apple Mint Fizz,6836015054001
+81.non alcohol-soft drin,beverage,Berry Drift Sparkler,6836015150001
+81.non alcohol-soft drin,beverage,Lychee Pop Soda,6836015153001
+81.non alcohol-soft drin,beverage,Blood Orange Fizz,6836015174001
+81.non alcohol-soft drin,beverage,Pineapple Twist Sparkler,6836015177001
+81.non alcohol-soft drin,beverage,Ginger Blossom Soda,6836015303001
+81.non alcohol-soft drin,beverage,Peach Leaf Fizz,6836015306001
+81.non alcohol-soft drin,beverage,Pear Spark Sparkler,6836015309001
+86.alcohol-spirits,beverage,Quiet Cask Whisky,6836312366001
+86.alcohol-spirits,beverage,Night Lantern Gin,6836312369001
+85.alcohol-other,beverage,Cherry Blossom Spritz,6836312390001
+85.alcohol-other,beverage,Lemon Grove Aperitif,6836312393001
+85.alcohol-other,beverage,Spiced Orchard Cup,6836312474001
+81.non alcohol-soft drin,beverage,Mango Zing Soda,6836312708001
+84.alcohol-sake and plum,beverage,Silver Rice Sake,6836660072001
+84.alcohol-sake and plum,beverage,Plum Garden Pour,6836660360001
+84.alcohol-sake and plum,beverage,Blossom Plum Cup,6836660363001
+81.non alcohol-soft drin,beverage,Lemon Grove Fizz,6837203213001
+81.non alcohol-soft drin,beverage,Passionfruit Wave Sparkler,6837203216001
+86.alcohol-spirits,beverage,Harbour Oak Rum,6837203234001
+86.alcohol-spirits,beverage,Jade River Tequila,6837203237001
+86.alcohol-spirits,beverage,Cedar Ember Vodka,6837203240001
+86.alcohol-spirits,beverage,Blue Crane Whisky,6837203243001
+86.alcohol-spirits,beverage,Quiet Cask Gin,6837203249001
+86.alcohol-spirits,beverage,Golden Reef Rum,6837203252001
+86.alcohol-spirits,beverage,Night Lantern Tequila,6837203288001
+86.alcohol-spirits,beverage,Jade River Vodka,6837203291001
+86.alcohol-spirits,beverage,Silver Kite Whisky,6837203294001
+86.alcohol-spirits,beverage,Blue Crane Gin,6837203297001
+86.alcohol-spirits,beverage,North Mist Rum,6837203300001
+86.alcohol-spirits,beverage,Quiet Cask Tequila,6837203303001
+86.alcohol-spirits,beverage,Night Lantern Vodka,6837203306001
+86.alcohol-spirits,beverage,Harbour Oak Whisky,6837203309001
